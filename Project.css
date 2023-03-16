@@ -1,0 +1,30 @@
+body {
+	font-family: Consolas;
+	background: #FFF;
+}
+
+nav .logo, nav a {
+	font-size: 30px;
+}
+
+p {
+	font-size: 20px;
+}
+
+td img {
+	width: 150px;
+	height: 150px;
+}
+
+h5 a {
+	color: black;
+}
+
+h5 a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+i {
+	font-size: 35px;
+}
